@@ -1,0 +1,44 @@
+.fio {
+  font-family: "Rubik Mono One", monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+.bio {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-size: larger;
+  color: white;
+}
+
+.social {
+  font-family: "Rubik Mono One", monospace;
+  color:rgb(15, 62, 143);
+}
+
+img {
+  width: 20%;
+}
+
+.text {
+  color: white;
+  font-family: "Jost", sans-serif;
+  font-size: larger;
+}
+
+body {
+  background-color:cornflowerblue;
+}
+
+@media(width: 600px){
+
+  img {
+    width: 20%;
+  }
+
+  body {
+    background-color:rgb(19, 17, 180)
+  }
+}
+
